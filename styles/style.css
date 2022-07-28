@@ -16,3 +16,7 @@ body {
 .slider-caption .heading {
     font-size: 40PX;
 }
+
+.card-div .bgc-color {
+    background-color: #F4FAFD;
+}
